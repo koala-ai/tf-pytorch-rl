@@ -1,2 +1,11 @@
-# tf-pytorch-rl
-reinforcement learning algorithm implemented using tensorflow and pytorch
+# Reinforcement learning algorithm 
+
+This project using tensorflow and pytorch implement some popular reinforcement learning algorithms simply.
+
+The algorithms include:
+
+- DQN
+
+updating ...
+
+

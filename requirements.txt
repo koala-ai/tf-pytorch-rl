@@ -1,0 +1,5 @@
+tensorflow=1.4
+gym=0.9.4
+python=3.5.2
+pytorch=0.2.0
+numpy
