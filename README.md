@@ -2,7 +2,8 @@
 
 This project using tensorflow and pytorch implement some popular reinforcement learning algorithms simply.
 
-These algorithms include:
+
+## tensorflow implement
 
 - DQN
 - Double DQN
@@ -12,6 +13,10 @@ These algorithms include:
 - A3C
 - DDPG
 - PPO
+
+## pytorch implement
+
+- DQN
 
 updating ...
 
