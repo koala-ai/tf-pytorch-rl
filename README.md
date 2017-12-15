@@ -7,6 +7,7 @@ The algorithms include:
 - DQN
 - Double DQN
 - Dueling DQN
+- Prioritized Replay DQN
 
 updating ...
 
