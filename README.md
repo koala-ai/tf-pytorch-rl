@@ -10,6 +10,8 @@ These algorithms include:
 - Prioritized Replay DQN
 - Actor Critic
 - A3C
+- DDPG
+- PPO
 
 updating ...
 
