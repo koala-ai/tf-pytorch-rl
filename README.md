@@ -6,6 +6,7 @@ The algorithms include:
 
 - DQN
 - Double DQN
+- Dueling DQN
 
 updating ...
 
