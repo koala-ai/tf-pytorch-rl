@@ -8,6 +8,7 @@ These algorithms include:
 - Double DQN
 - Dueling DQN
 - Prioritized Replay DQN
+- A3C
 
 updating ...
 
