@@ -1,4 +1,4 @@
-# Reinforcement learning algorithm 
+# Deep reinforcement learning algorithm 
 
 This project using tensorflow and pytorch implement some popular reinforcement learning algorithms simply.
 
