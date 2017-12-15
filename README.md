@@ -8,6 +8,7 @@ These algorithms include:
 - Double DQN
 - Dueling DQN
 - Prioritized Replay DQN
+- Actor Critic
 - A3C
 
 updating ...
