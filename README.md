@@ -5,6 +5,7 @@ This project using tensorflow and pytorch implement some popular reinforcement l
 The algorithms include:
 
 - DQN
+- Double DQN
 
 updating ...
 
